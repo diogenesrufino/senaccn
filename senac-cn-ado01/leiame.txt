@@ -1,0 +1,7 @@
+Programa que converte um número de uma base N (2-36) para uma base M(2-36).
+
+No programa o usuário digita os número na seguinte ordem:
+
+1º: Valor que quer converter;
+2º: Valor da base que o número/valor está.
+3º: Valor da base para qual o valor será convertido.
